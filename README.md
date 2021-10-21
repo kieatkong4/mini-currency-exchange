@@ -1,2 +1,2 @@
 # Currency Exchange
-## miniapp
+## mini-app
